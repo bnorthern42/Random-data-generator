@@ -16,3 +16,7 @@ make Makefile
 ```
 Run the executable "rando.exe" in a CLI or Terminal environment
 ```
+
+## Edit size
+
+Change length Variable to any size. Note at length = 1, Minimum without changing columns is 8 bytes. 
